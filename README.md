@@ -11,7 +11,8 @@
 <br>
 
 ### Connect with me:
-[<img align="left" alt="RishiSheth | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="RishiSheth | LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" style="filter: invert(1);" />][linkedin]
+
 
 <br>
 <br>
