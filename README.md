@@ -1,41 +1,25 @@
-### Hi 👋, I'm Rishi
+# 🚀 Welcome to My Profile  
 
-<img align="right" alt="Rishi Illustration" width="300" src="https://raw.githubusercontent.com/shethrishi09/shethrishi09/main/assets/rishi.png">
+<img align="right" alt="Rishi Illustration" width="300" src="https://raw.githubusercontent.com/shethrishi09/shethrishi09/main/abb533741bcd9b568b61308b20d49673.jpg">
 
-- 🔭 An enthusiastic developer who loves to build new websites and explore new technologies.
-- 🌱 I'm currently diving deep into **Computer Engineering** and **Artificial Intelligence**.
-- 🤔 I'm interested in exploring and working with AI on innovative projects.
-- 🤝 Ask me about opportunities to **collaborate on projects**.
-- 📫 How to reach me: **shethrishi777@gmail.com**
+## 👨‍💻 About Me  
+- 🔭 Currently working on **Full-Stack Development**  
+- 🌱 Learning **React, Django & System Design**  
+- ⚡ Passionate about **Sports Betting Apps & Creative UI**  
+- 💬 Ask me about **Java, Python, React, Django**  
 
-<br>
+## 🛠️ Tech Stack  
+- **Frontend:** React, Tailwind, JavaScript  
+- **Backend:** Node.js, Django, Spring Boot  
+- **Database:** MySQL, SQLite, MongoDB  
+- **Other:** REST APIs, Web Scraping (Python), GitHub Actions  
 
-### Connect with me:
-<a href="https://www.linkedin.com/in/rishi-sheth-00b294375" target="_blank">
-  <img align="left" alt="Rishi's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
+## 📊 GitHub Stats  
+![Rishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shethrishi09&show_icons=true&theme=tokyonight)
 
-<br>
-<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shethrishi09&layout=compact&theme=tokyonight)
 
-### Languages and Tools:
-[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
-[<img align="left" alt="Django" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][django]
-[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
-
-<br>
-<br>
-
-[python]: https://www.python.org
-[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[java]: https://www.java.com
-[django]: https://www.djangoproject.com
-[mysql]: https://www.mysql.com
-[mongodb]: https://www.mongodb.com
+## 🌐 Connect with Me  
+- 📧 Email: **shethrishi09@gmail.com**  
+- 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/shethrishi09)  
+- 🐦 Twitter: [Twitter Profile](https://twitter.com/shethrishi09)  
