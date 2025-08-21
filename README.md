@@ -1,6 +1,6 @@
 ### 🚀 Welcome to My Profile
 
-<img align="right" alt="Developer Illustration" width="400" src="https://raw.githubusercontent.com/gist/Krish-zinzuvadiya/15024326417722c1597a760596e0a4f5/raw/a282f1b7470c678a1555a53f0db6fe7a950a793c/developer.gif">
+<img align="right" alt="Developer Illustration" width="400"  src="https://raw.githubusercontent.com/shethrishi09/shethrishi09/main/abb533741bcd9b568b61308b20d49673.jpg">
 
 - 🔭 An enthusiastic developer who loves to build new websites and explore new technologies.
 - 🌱 I'm currently diving deep into **Computer Engineering** and **Artificial Intelligence**.
