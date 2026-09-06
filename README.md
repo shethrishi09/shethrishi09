@@ -24,7 +24,7 @@ Full Stack Developer • AI & Machine Learning Enthusiast • Building Scalable 
 
 📧 **Email:** shethrishi777@gmail.com
 
-🌐 **Portfolio:** https://rishisheth-portfolio.netlify.app
+🌐 **Portfolio:** https://www.rishisheth.in
 
 💼 **LinkedIn:** https://www.linkedin.com/in/rishi-sheth-00b294375
 
